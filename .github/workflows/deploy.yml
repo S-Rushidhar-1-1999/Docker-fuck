@@ -27,4 +27,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: rushidhar/bypass:latest
+          tags: rushidhar/z_mirror:heroku
