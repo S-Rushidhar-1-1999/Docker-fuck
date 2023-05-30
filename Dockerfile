@@ -1,1 +1,1 @@
-FROM anshumanpm2006/z_mirror:heroku
+FROM anshumanpm2006/bypass:latest
